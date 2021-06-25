@@ -68,8 +68,6 @@ To cut a long story short, understanding how to do fractions can be tricky for p
 
 Fractions don't always mean the same thing. ½ of a cake is not the same as ½ of three cakes, or ½ of a bag of 12 sweets! That's the first hurdle -- the value of a fraction changes depending on how big the numerator (top number) is. Secondly, if the bottom number (the denominator) in a fraction gets bigger, the value decreases. On top of all of that, names for fractions don't always sound like the number they represent, like an eighth for ⅛ or a quarter for ¼.
 
-
-
 Ask "If you want to cut this into four pieces, how many cuts do you need to make?" The answer will be three cuts. Answer for them (show by cutting or show the places where you would cut) Announce you are dividing the string.
 
 Ask "If you want to cut the string into three pieces, how many cuts do you need to make?" Let them figure it out, the answer is two cuts.
