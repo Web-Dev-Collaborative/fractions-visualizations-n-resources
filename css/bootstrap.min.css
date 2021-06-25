@@ -220,7 +220,7 @@ th {
     page-break-inside: avoid;
   }
   img {
-    max-width:  !important;
+    max-width: !important;
   }
   p,
   h2,
@@ -5758,12 +5758,12 @@ button.close {
   background-image: -webkit-linear-gradient(
     left,
     color-stop(rgba(0, 0, 0, 0.5) 0),
-    color-stop(rgba(0, 0, 0, 0.0001) )
+    color-stop(rgba(0, 0, 0, 0.0001))
   );
   background-image: linear-gradient(
     to right,
     rgba(0, 0, 0, 0.5) 0,
-    rgba(0, 0, 0, 0.0001) 
+    rgba(0, 0, 0, 0.0001)
   );
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#80000000', endColorstr='#00000000', GradientType=1);
@@ -5774,12 +5774,12 @@ button.close {
   background-image: -webkit-linear-gradient(
     left,
     color-stop(rgba(0, 0, 0, 0.0001) 0),
-    color-stop(rgba(0, 0, 0, 0.5) )
+    color-stop(rgba(0, 0, 0, 0.5))
   );
   background-image: linear-gradient(
     to right,
     rgba(0, 0, 0, 0.0001) 0,
-    rgba(0, 0, 0, 0.5) 
+    rgba(0, 0, 0, 0.5)
   );
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#80000000', GradientType=1);
