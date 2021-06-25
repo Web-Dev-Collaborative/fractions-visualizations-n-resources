@@ -7,11 +7,13 @@
 /*! normalize.css v3.0.0 | MIT License | git.io/normalize */
 html {
   font-family: sans-serif;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
+  -ms-text-size-adjust: ;
+  -webkit-text-size-adjust: ;
 }
 body {
   margin: 0;
+  align-content: center;
+  align-self: center;
 }
 article,
 aside,
@@ -218,7 +220,7 @@ th {
     page-break-inside: avoid;
   }
   img {
-    max-width: 100% !important;
+    max-width:  !important;
   }
   p,
   h2,
@@ -307,7 +309,7 @@ img {
 }
 .img-responsive {
   display: block;
-  max-width: 100%;
+  max-width: ;
   height: auto;
 }
 .img-rounded {
@@ -322,7 +324,7 @@ img {
   -webkit-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
   display: inline-block;
-  max-width: 100%;
+  max-width: ;
   height: auto;
 }
 .img-circle {
@@ -828,7 +830,7 @@ pre code {
   float: left;
 }
 .col-xs-12 {
-  width: 100%;
+  width: ;
 }
 .col-xs-11 {
   width: 91.66666666666666%;
@@ -864,7 +866,7 @@ pre code {
   width: 8.333333333333332%;
 }
 .col-xs-pull-12 {
-  right: 100%;
+  right: ;
 }
 .col-xs-pull-11 {
   right: 91.66666666666666%;
@@ -903,7 +905,7 @@ pre code {
   right: 0;
 }
 .col-xs-push-12 {
-  left: 100%;
+  left: ;
 }
 .col-xs-push-11 {
   left: 91.66666666666666%;
@@ -942,7 +944,7 @@ pre code {
   left: 0;
 }
 .col-xs-offset-12 {
-  margin-left: 100%;
+  margin-left: ;
 }
 .col-xs-offset-11 {
   margin-left: 91.66666666666666%;
@@ -996,7 +998,7 @@ pre code {
     float: left;
   }
   .col-sm-12 {
-    width: 100%;
+    width: ;
   }
   .col-sm-11 {
     width: 91.66666666666666%;
@@ -1032,7 +1034,7 @@ pre code {
     width: 8.333333333333332%;
   }
   .col-sm-pull-12 {
-    right: 100%;
+    right: ;
   }
   .col-sm-pull-11 {
     right: 91.66666666666666%;
@@ -1071,7 +1073,7 @@ pre code {
     right: 0;
   }
   .col-sm-push-12 {
-    left: 100%;
+    left: ;
   }
   .col-sm-push-11 {
     left: 91.66666666666666%;
@@ -1110,7 +1112,7 @@ pre code {
     left: 0;
   }
   .col-sm-offset-12 {
-    margin-left: 100%;
+    margin-left: ;
   }
   .col-sm-offset-11 {
     margin-left: 91.66666666666666%;
@@ -1165,7 +1167,7 @@ pre code {
     float: left;
   }
   .col-md-12 {
-    width: 100%;
+    width: ;
   }
   .col-md-11 {
     width: 91.66666666666666%;
@@ -1201,7 +1203,7 @@ pre code {
     width: 8.333333333333332%;
   }
   .col-md-pull-12 {
-    right: 100%;
+    right: ;
   }
   .col-md-pull-11 {
     right: 91.66666666666666%;
@@ -1240,7 +1242,7 @@ pre code {
     right: 0;
   }
   .col-md-push-12 {
-    left: 100%;
+    left: ;
   }
   .col-md-push-11 {
     left: 91.66666666666666%;
@@ -1279,7 +1281,7 @@ pre code {
     left: 0;
   }
   .col-md-offset-12 {
-    margin-left: 100%;
+    margin-left: ;
   }
   .col-md-offset-11 {
     margin-left: 91.66666666666666%;
@@ -1334,7 +1336,7 @@ pre code {
     float: left;
   }
   .col-lg-12 {
-    width: 100%;
+    width: ;
   }
   .col-lg-11 {
     width: 91.66666666666666%;
@@ -1370,7 +1372,7 @@ pre code {
     width: 8.333333333333332%;
   }
   .col-lg-pull-12 {
-    right: 100%;
+    right: ;
   }
   .col-lg-pull-11 {
     right: 91.66666666666666%;
@@ -1409,7 +1411,7 @@ pre code {
     right: 0;
   }
   .col-lg-push-12 {
-    left: 100%;
+    left: ;
   }
   .col-lg-push-11 {
     left: 91.66666666666666%;
@@ -1448,7 +1450,7 @@ pre code {
     left: 0;
   }
   .col-lg-offset-12 {
-    margin-left: 100%;
+    margin-left: ;
   }
   .col-lg-offset-11 {
     margin-left: 91.66666666666666%;
@@ -1488,14 +1490,14 @@ pre code {
   }
 }
 table {
-  max-width: 100%;
+  max-width: ;
   background-color: transparent;
 }
 th {
   text-align: left;
 }
 .table {
-  width: 100%;
+  width: ;
   margin-bottom: 20px;
 }
 .table > thead > tr > th,
@@ -1671,7 +1673,7 @@ table th[class*="col-"] {
 }
 @media (max-width: 767px) {
   .table-responsive {
-    width: 100%;
+    width: ;
     margin-bottom: 15px;
     overflow-y: hidden;
     overflow-x: scroll;
@@ -1724,7 +1726,7 @@ fieldset {
 }
 legend {
   display: block;
-  width: 100%;
+  width: ;
   padding: 0;
   margin-bottom: 20px;
   font-size: 21px;
@@ -1754,7 +1756,7 @@ input[type="file"] {
 }
 input[type="range"] {
   display: block;
-  width: 100%;
+  width: ;
 }
 select[multiple],
 select[size] {
@@ -1776,7 +1778,7 @@ output {
 }
 .form-control {
   display: block;
-  width: 100%;
+  width: ;
   height: 34px;
   padding: 6px 12px;
   font-size: 14px;
@@ -2422,7 +2424,7 @@ fieldset[disabled] .btn-link:focus {
 }
 .btn-block {
   display: block;
-  width: 100%;
+  width: ;
   padding-left: 0;
   padding-right: 0;
 }
@@ -2432,7 +2434,7 @@ fieldset[disabled] .btn-link:focus {
 input[type="submit"].btn-block,
 input[type="reset"].btn-block,
 input[type="button"].btn-block {
-  width: 100%;
+  width: ;
 }
 .fade {
   opacity: 0;
@@ -3094,7 +3096,7 @@ input[type="button"].btn-block {
 }
 .dropdown-menu {
   position: absolute;
-  top: 100%;
+  top: ;
   left: 0;
   z-index: 1000;
   display: none;
@@ -3200,7 +3202,7 @@ input[type="button"].btn-block {
 .dropup .dropdown-menu,
 .navbar-fixed-bottom .dropdown .dropdown-menu {
   top: auto;
-  bottom: 100%;
+  bottom: ;
   margin-bottom: 1px;
 }
 @media (min-width: 768px) {
@@ -3339,8 +3341,8 @@ input[type="button"].btn-block {
 .btn-group-vertical > .btn-group > .btn {
   display: block;
   float: none;
-  width: 100%;
-  max-width: 100%;
+  width: ;
+  max-width: ;
 }
 .btn-group-vertical > .btn-group > .btn {
   float: none;
@@ -3383,7 +3385,7 @@ input[type="button"].btn-block {
 }
 .btn-group-justified {
   display: table;
-  width: 100%;
+  width: ;
   table-layout: fixed;
   border-collapse: separate;
 }
@@ -3394,7 +3396,7 @@ input[type="button"].btn-block {
   width: 1%;
 }
 .btn-group-justified > .btn-group .btn {
-  width: 100%;
+  width: ;
 }
 [data-toggle="buttons"] > .btn > input[type="radio"],
 [data-toggle="buttons"] > .btn > input[type="checkbox"] {
@@ -3412,7 +3414,7 @@ input[type="button"].btn-block {
 }
 .input-group .form-control {
   float: left;
-  width: 100%;
+  width: ;
   margin-bottom: 0;
 }
 .input-group-lg > .form-control,
@@ -3622,7 +3624,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   cursor: default;
 }
 .nav-tabs.nav-justified {
-  width: 100%;
+  width: ;
   border-bottom: 0;
 }
 .nav-tabs.nav-justified > li {
@@ -3688,7 +3690,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   margin-left: 0;
 }
 .nav-justified {
-  width: 100%;
+  width: ;
 }
 .nav-justified > li {
   float: none;
@@ -4487,7 +4489,7 @@ a.list-group-item.active > .badge,
   border-radius: 6px;
 }
 .jumbotron .container {
-  max-width: 100%;
+  max-width: ;
 }
 @media screen and (min-width: 768px) {
   .jumbotron {
@@ -4517,7 +4519,7 @@ a.list-group-item.active > .badge,
 .thumbnail > img,
 .thumbnail a > img {
   display: block;
-  max-width: 100%;
+  max-width: ;
   height: auto;
   margin-left: auto;
   margin-right: auto;
@@ -4632,7 +4634,7 @@ a.thumbnail.active {
 .progress-bar {
   float: left;
   width: 0;
-  height: 100%;
+  height: ;
   font-size: 12px;
   line-height: 20px;
   color: #fff;
@@ -5694,7 +5696,7 @@ button.close {
 .carousel-inner {
   position: relative;
   overflow: hidden;
-  width: 100%;
+  width: ;
 }
 .carousel-inner > .item {
   display: none;
@@ -5705,7 +5707,7 @@ button.close {
 .carousel-inner > .item > img,
 .carousel-inner > .item > a > img {
   display: block;
-  max-width: 100%;
+  max-width: ;
   height: auto;
   line-height: 1;
 }
@@ -5721,23 +5723,23 @@ button.close {
 .carousel-inner > .prev {
   position: absolute;
   top: 0;
-  width: 100%;
+  width: ;
 }
 .carousel-inner > .next {
-  left: 100%;
+  left: ;
 }
 .carousel-inner > .prev {
-  left: -100%;
+  left: -;
 }
 .carousel-inner > .next.left,
 .carousel-inner > .prev.right {
   left: 0;
 }
 .carousel-inner > .active.left {
-  left: -100%;
+  left: -;
 }
 .carousel-inner > .active.right {
-  left: 100%;
+  left: ;
 }
 .carousel-control {
   position: absolute;
@@ -5756,12 +5758,12 @@ button.close {
   background-image: -webkit-linear-gradient(
     left,
     color-stop(rgba(0, 0, 0, 0.5) 0),
-    color-stop(rgba(0, 0, 0, 0.0001) 100%)
+    color-stop(rgba(0, 0, 0, 0.0001) )
   );
   background-image: linear-gradient(
     to right,
     rgba(0, 0, 0, 0.5) 0,
-    rgba(0, 0, 0, 0.0001) 100%
+    rgba(0, 0, 0, 0.0001) 
   );
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#80000000', endColorstr='#00000000', GradientType=1);
@@ -5772,12 +5774,12 @@ button.close {
   background-image: -webkit-linear-gradient(
     left,
     color-stop(rgba(0, 0, 0, 0.0001) 0),
-    color-stop(rgba(0, 0, 0, 0.5) 100%)
+    color-stop(rgba(0, 0, 0, 0.5) )
   );
   background-image: linear-gradient(
     to right,
     rgba(0, 0, 0, 0.0001) 0,
-    rgba(0, 0, 0, 0.5) 100%
+    rgba(0, 0, 0, 0.5) 
   );
   background-repeat: repeat-x;
   filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#00000000', endColorstr='#80000000', GradientType=1);

@@ -45,7 +45,7 @@ h3 {
 }
 
 #wrapper {
-  width: 100%;
+  width: ;
   margin: 0;
   padding: 0;
 }
@@ -69,7 +69,7 @@ img.img-polaroid {
   margin: 0 0 20px 0;
 }
 .img-box {
-  max-width: 100%;
+  max-width: ;
 }
 /*  Header
 ==================================== */
@@ -111,7 +111,7 @@ header .navbar {
 .home-page header .navbar-default {
   background: rgba(255, 255, 255, 1);
   /* position: absolute; */
-  width: 100%;
+  width: ;
   position: relative;
 }
 
@@ -303,7 +303,7 @@ select.selectmenu {
 }
 
 #banner {
-  width: 100%;
+  width: ;
   background: #000;
   position: relative;
   margin: 0;
@@ -336,8 +336,8 @@ select.selectmenu {
 /* --- flexslider --- */
 #main-slider:before {
   content: "";
-  width: 100%;
-  height: 100%;
+  width: ;
+  height: ;
   background: rgba(131, 213, 255, 0.15);
   z-index: 1;
   position: absolute;
@@ -404,7 +404,7 @@ select.selectmenu {
 }
 .skill-home .icons {
   padding: 30px 0 0 0;
-  width: 100%;
+  width: ;
   height: 94px;
   color: #fff;
   font-size: 42px;
@@ -444,7 +444,7 @@ select.selectmenu {
   position: absolute;
   top: -84px;
   margin: 0 auto;
-  width: 100%;
+  width: ;
   color: #fff;
 }
 .testi-icon-area .quote {
@@ -488,7 +488,7 @@ select.selectmenu {
 img.img-center {
   margin: 0 auto;
   display: block;
-  max-width: 100%;
+  max-width: ;
 }
 /* Testimonial
 ----------------------------------*/
@@ -560,7 +560,7 @@ section.txt-area {
 }
 
 #content img {
-  max-width: 100%;
+  max-width: ;
   height: auto;
 }
 
@@ -574,7 +574,7 @@ section.txt-area {
 }
 
 .box {
-  width: 100%;
+  width: ;
 }
 .box-gray {
   background: #f8f8f8;
@@ -679,11 +679,11 @@ ul.breadcrumb li a:hover {
   text-decoration: none;
 }
 img {
-  width: 100%;
+  width: ;
 }
 .post3 img {
   margin-bottom: 0;
-  max-width: 100%;
+  max-width: ;
 }
 .post3 a:hover * {
   color: #f58a2e;
@@ -758,14 +758,14 @@ img {
 }
 
 .item-thumbs a + img {
-  width: 100%;
+  width: ;
 }
 
 .item-thumbs .hover-wrap {
   position: absolute;
   display: block;
-  width: 100%;
-  height: 100%;
+  width: ;
+  height: ;
 
   opacity: 0;
   filter: alpha(opacity=0);
@@ -790,7 +790,7 @@ img {
 .item-thumbs .hover-wrap .overlay-img {
   position: absolute;
   width: 90%;
-  height: 100%;
+  height: ;
   opacity: 0.8;
   filter: alpha(opacity=80);
   background: #f58a2e;
@@ -1046,7 +1046,7 @@ h4.heading {
 }
 
 .widgetheading {
-  width: 100%;
+  width: ;
 
   padding: 0;
 }
@@ -1095,13 +1095,13 @@ footer .widget .widgetheading span {
 }
 
 .map iframe {
-  width: 100%;
+  width: ;
   height: 450px;
   border: none;
 }
 
 .map-grid iframe {
-  width: 100%;
+  width: ;
   height: 350px;
   border: none;
   margin: 0 0 -5px 0;
@@ -1210,7 +1210,7 @@ ul.team-detail li ul.social-network li i {
 
 .pricing-wrapp {
   margin: 0 auto;
-  width: 100%;
+  width: ;
   background: #fd0000;
 }
 .pricing-box-item {
@@ -1300,14 +1300,14 @@ ul.team-detail li ul.social-network li i {
 
 /* --- flickr --- */
 .widget .flickr_badge {
-  width: 100%;
+  width: ;
 }
 .widget .flickr_badge img {
   margin: 0 9px 20px 0;
 }
 
 footer .widget .flickr_badge {
-  width: 100%;
+  width: ;
 }
 footer .widget .flickr_badge img {
   margin: 0 9px 20px 0;
@@ -1691,7 +1691,7 @@ textarea.error {
 @media (min-width: 768px) and (max-width: 979px) {
   a.detail {
     background: none;
-    width: 100%;
+    width: ;
   }
 
   footer .widget form input#appendedInputButton {
@@ -1704,7 +1704,7 @@ textarea.error {
 
   footer .widget form .input-append .btn {
     display: block;
-    width: 100%;
+    width: ;
     padding-right: 0;
     padding-left: 0;
     -webkit-box-sizing: border-box;
@@ -1764,7 +1764,7 @@ textarea.error {
   .navbar-nav {
     border-top: none;
     float: none;
-    width: 100%;
+    width: ;
   }
   .navbar .nav > .active > a,
   .navbar .nav > .active > a:hover {
@@ -1822,7 +1822,7 @@ textarea.error {
   #inner-headline .breadcrumb {
     float: left;
     clear: both;
-    width: 100%;
+    width: ;
   }
 
   .breadcrumb > li {
